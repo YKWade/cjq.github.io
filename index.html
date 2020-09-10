@@ -14,29 +14,6 @@
         }
     </style>
 </head>
-<<<<<<< HEAD
-=======
-<body>
-	<div class="download_div">
-		<p class="download_title">测试安装包1.0</p>
-		<img class="img_app_overview" src="img_app_overview.png" alt="Mr.chao">
-		<div class="download_button">
-			<button class="button button_green button_top" onclick="downloadClientApp();"><a href="javascript:void(0);">点击安装app</a></button>
-			<!-- <button class="button button_green button_top"><a href="{{androidAUrl}}">Android客户端下载</a></button> -->
-			<div class="download_tips">
-				<strong>微信扫描</strong>下载,<strong>请点击右上角</strong>,<br />选择“<strong>在浏览器中打开</strong>”即可安装下载
-			</div>
-		</div>
-	</div>
-	<script>
-		var downloadClientApp = function() {
-			// 在此用到配置文件(Mytest.plist)的外部链接
-			window.alert("sometext");
-
-			window.location.href='itms-services:///?action=download-manifest&url=https://ykwade.github.io/cjq.github.io/cjq.plist';
-		}
-	<script>
->>>>>>> 869ec6a9ad49a1acc1c45e99352ec3092d653fc2
 
 <body style="text-align: center;">
     <br>
@@ -44,7 +21,7 @@
 
     <br>
     <div>
-        <!-- <a href="./CA.cer">先点我，下载CA证书</a> -->
+        <a href="./CA.cer">先点我，下载CA证书</a>
     </div>
 
     <br>
@@ -52,7 +29,7 @@
     <div>
         <img src="./icon.png" alt="" style="border-radius: 4px;">
         <div>
-            <a href="itms-services://?action=download-manifest&url=https://ykwade.github.io/cjq.github.io/cjq.plist">然后点我安装</a>
+            <a href="itms-services://?action=download-manifest&url=https://192.168.1.104/manifest.plist">然后点我安装</a>
         </div>
 
     </div>
