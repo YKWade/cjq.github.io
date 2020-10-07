@@ -23,7 +23,7 @@
 		<string>jys_ahoc_2020_10_07</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>A2502D6B886E63CECEA6DC3939DF20FE03B1E315</string>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
