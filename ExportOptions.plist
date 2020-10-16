@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://ykwade.github.io/cjq.github.io/jys.ipa</string>
+		<string>https://summerhotsi.github.io/iosIpa/jys.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://ykwade.github.io/cjq.github.io/57.png</string>
+		<string>https://summerhotsi.github.io/iosIpa/57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://ykwade.github.io/cjq.github.io/1024.png</string>
+		<string>https://summerhotsi.github.io/iosIpa/1024.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
